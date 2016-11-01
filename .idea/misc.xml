@@ -57,6 +57,9 @@
   <component name="SvnConfiguration" myUseAcceleration="nothing">
     <configuration>C:\Users\Gena\AppData\Roaming\Subversion</configuration>
   </component>
+  <component name="TaskProjectConfiguration">
+    <server type="YouTrack" url="http://localhost:8080" />
+  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
